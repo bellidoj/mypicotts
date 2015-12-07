@@ -9,5 +9,7 @@ In the end you will get an mp3 file with the read aloud text.
 
 ## Usage
 
-    mypicotts file.txt 
+    mypicotts [--lang LANG] file.txt
+
+--lang supports the same languages as picotts does. If not specified it defaults to spanish ('es-ES').  
 
