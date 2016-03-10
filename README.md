@@ -16,9 +16,10 @@ Cli
 
     mypicotts.py [--lang LANG] file.txt
 
---lang supports the same languages as picotts does. If not specified it defaults to spanish ('es-ES').  
+`--lang` supports the same languages as picotts does. If not specified it defaults to spanish ('es-ES').  
 
 GUI
+
     mypicotts-gtk.py
 
 Write some text or open a file. Select the language and enconder a fire it. 
